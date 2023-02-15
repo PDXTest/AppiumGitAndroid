@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Feb 15 15:44:33 GMT 2023","Wed Feb 15 15:44:35 GMT 2023","2212","","API Demos: API Doem","","API Demos: API Doem","Given find elements by Xpath","Given find elements by Xpath",""
+"passed","Wed Feb 15 15:44:59 GMT 2023","Wed Feb 15 15:44:59 GMT 2023","0","","Login app: Login Application","","Login app: Login Application","","",""
+"passed","Wed Feb 15 15:44:57 GMT 2023","Wed Feb 15 15:44:59 GMT 2023","2393","","Login app: Login Application","","Login app: Login Application","Given Login app","Given Login app",""
+"passed","Wed Feb 15 15:44:35 GMT 2023","Wed Feb 15 15:44:35 GMT 2023","0","","API Demos: API Doem","","API Demos: API Doem","","",""

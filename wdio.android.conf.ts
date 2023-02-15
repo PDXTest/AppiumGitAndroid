@@ -22,5 +22,6 @@ import { config } from './test/wdio.shared.conf';
         "appium:app": "D:\\Dummy\\ApiDemos-debug.apk"
       
     }]
+
     
     exports.config = config;
