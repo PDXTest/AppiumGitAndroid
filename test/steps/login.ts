@@ -6,7 +6,7 @@ const loginpage1 = new loginpage();
 
 Given('Login app',async () => {
 
-//using class name
+//using class name name
 
     const apiName  = await $('android.widget.TextView');
     let apiText = await (apiName.getText());
